@@ -1,0 +1,45 @@
+.header-bg {
+    background-color: #2D333B;
+}
+
+.header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nav-1, .nav-2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 16px;
+}
+
+.nav-menu a {
+    transition: .1s;
+}
+
+.nav-menu a:hover {
+    color: #899099;
+}
+
+.see-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.margin-top {
+    margin-top: 2px;
+}
+

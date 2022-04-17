@@ -1,0 +1,31 @@
+body, h1, h2, p, ul, li, a {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    color: #222222;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #CDD9e5;
+    font-family: "Noto sans", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}

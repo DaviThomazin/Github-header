@@ -1,0 +1,11 @@
+/* Header */
+@import "css/header.css";
+
+/* Geral */
+@import "css/geral.css";
+
+/* Componentes */
+@import "css/componentes.css";
+
+/* Reset */
+@import "css/reset.css";

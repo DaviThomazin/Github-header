@@ -1,0 +1,21 @@
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+input {
+    width: 270px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #3b424a;
+    background: #1c2127 url(/img/icon-input.svg) 246px 5px no-repeat;
+}
+
+::placeholder {
+    color: #cecece;
+    font-family: "Noto sans", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 10px;
+}
